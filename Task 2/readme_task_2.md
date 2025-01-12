@@ -1,5 +1,5 @@
-RISC-V Program Simulation with Spike
-This guide covers how to compile, run, and debug a RISC-V program using the spike simulator.
+RISC-V Program Simulation with Spike </b>
+This guide covers how to compile, run, and debug a RISC-V program using the spike simulator.</b>
 
 Steps
 1. Compile the Program
