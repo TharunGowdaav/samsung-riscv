@@ -115,6 +115,7 @@ Breakdown:
 - funct3: 100
 - Immediate[4:1|11]: 01100
 - Opcode: 1100011
+```
 Branches if a0 is less than zero.
 
 7. mv (Move)
@@ -141,13 +142,12 @@ Breakdown:
 - rd (x0): 00000
 - Opcode: 1100111
 ```
-Returns from function (pseudo-instruction for jalr x0,ra,0).
+Returns from function (pseudo-instruction for jalr x0,ra,0)<br>
+**Instruction Format Types in Main**<br>
 
-**Instruction Format Types in Main**
-
-R-type: Register-to-register arithmetic instructions
-I-type: Immediate arithmetic and loads
-S-type: Store instructions
-B-type: Branch instructions
-U-type: Upper immediate instructions
-J-type: Jump instructions
+###R-type: Register-to-register arithmetic instructions<br>
+###I-type: Immediate arithmetic and loads<br>
+###S-type: Store instructions<br>
+###B-type: Branch instructions<br>
+###U-type: Upper immediate instructions<br>
+###J-type: Jump instructions<br>
