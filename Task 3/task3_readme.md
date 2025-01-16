@@ -1,4 +1,4 @@
-RISC-V Main Function Analysis
+*RISC-V Main Function Analysis*<br>
 The code used for this compilation is give below which is a combination of finding factorial,Sum of natural numbers and fibonacci series
 ```
 #include <stdio.h>
