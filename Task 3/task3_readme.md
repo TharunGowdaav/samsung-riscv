@@ -145,9 +145,9 @@ Breakdown:
 Returns from function (pseudo-instruction for jalr x0,ra,0)<br>
 **Instruction Format Types in Main**<br>
 
-###R-type: Register-to-register arithmetic instructions<br>
-###I-type: Immediate arithmetic and loads<br>
-###S-type: Store instructions<br>
-###B-type: Branch instructions<br>
-###U-type: Upper immediate instructions<br>
-###J-type: Jump instructions<br>
+R-type: Register-to-register arithmetic instructions<br>
+I-type: Immediate arithmetic and loads<br>
+S-type: Store instructions<br>
+B-type: Branch instructions<br>
+U-type: Upper immediate instructions<br>
+J-type: Jump instructions<br>
